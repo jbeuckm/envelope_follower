@@ -16808,7 +16808,7 @@ Source: www.kingbright.com</description>
 <part name="GND4" library="supply1" deviceset="GND" device=""/>
 <part name="R6" library="rcl" deviceset="R-US_" device="0207/7" value="100k"/>
 <part name="GND8" library="supply1" deviceset="GND" device=""/>
-<part name="C7" library="capacitor-wima" library_urn="urn:adsk.eagle:library:116" deviceset="C" device="5/2.5" package3d_urn="urn:adsk.eagle:package:5426/1"/>
+<part name="C7" library="capacitor-wima" library_urn="urn:adsk.eagle:library:116" deviceset="C" device="5/2.5" package3d_urn="urn:adsk.eagle:package:5426/1" value="1u"/>
 <part name="R7" library="rcl" deviceset="R-US_" device="0207/7" value="100k"/>
 <part name="R8" library="rcl" deviceset="R-US_" device="0207/7" value="4k7"/>
 <part name="R9" library="rcl" deviceset="R-US_" device="0207/7" value="10k"/>
